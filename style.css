@@ -13,3 +13,10 @@ body {
 background-size:cover;
 background-position:center;
 }
+a {
+font-size:20px !important;
+width: 400px;
+border-radius: 30px !important;
+background-color: lightskyblue;
+color: darkblue;
+}
